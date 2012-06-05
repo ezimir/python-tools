@@ -1,0 +1,4 @@
+        <navPoint class="chapter" id="chapter{index}" playOrder="{index}">
+            <navLabel><text>{title}</text></navLabel>
+            <content src="chapter{index}.xhtml"/>
+        </navPoint>
